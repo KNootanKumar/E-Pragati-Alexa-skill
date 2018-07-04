@@ -1,0 +1,257 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "epragathi interns",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": [
+                        "cancel this",
+                        "cancel this conversation",
+                        "cancel"
+                    ]
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": [
+                        "epragati help",
+                        "help this conversation",
+                        "help"
+                    ]
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": [
+                        "bye",
+                        "stop epragati",
+                        "end this conversation",
+                        "end conversation",
+                        "stop conversation",
+                        "stop"
+                    ]
+                },
+                {
+                    "name": "LaunchIntent",
+                    "slots": [],
+                    "samples": [
+                        "home",
+                        "about",
+                        "about epragati ",
+                        "tell about epragati",
+                        "epragati",
+                        "e pragati"
+                    ]
+                },
+                {
+                    "name": "vision",
+                    "slots": [],
+                    "samples": [
+                        "what about vision of epragati",
+                        "tell about vision of epragati",
+                        "about vision of epragati",
+                        "epragati vision",
+                        "vision of epragati",
+                        "vision"
+                    ]
+                },
+                {
+                    "name": "BigPicture",
+                    "slots": [],
+                    "samples": [
+                        "epragati bigpicture",
+                        "what about bigpicture of epragati",
+                        "bigpicture of epragati",
+                        "Bigpicture"
+                    ]
+                },
+                {
+                    "name": "CorePlatform",
+                    "slots": [],
+                    "samples": [
+                        "coreplatform",
+                        "what about epragati coreplatform",
+                        "tell about coreplatform of epragati",
+                        "coreplatform of epragati",
+                        "epragati coreplatform"
+                    ]
+                },
+                {
+                    "name": "IndustrySector",
+                    "slots": [],
+                    "samples": [
+                        "what about industrysector of epragati",
+                        "IndustrySector",
+                        "tell about industrysector",
+                        "industrysector of epragati",
+                        "epragati IndustrySector"
+                    ]
+                },
+                {
+                    "name": "Infrastructure",
+                    "slots": [],
+                    "samples": [
+                        "what about Infrastructure of epragati",
+                        "tell about Infrastructure of epragati",
+                        "Infrastructure of epragati",
+                        "epragati Infrastructure",
+                        "Infrastructure"
+                    ]
+                },
+                {
+                    "name": "Knowledge_Skills",
+                    "slots": [],
+                    "samples": [
+                        "what about epragati Knowledge Skills",
+                        "tell about epragati Knowledge Skills",
+                        "epagati Knowledge Skills",
+                        "Knowledge Skills",
+                        "KnowledgeSkills"
+                    ]
+                },
+                {
+                    "name": "Mission",
+                    "slots": [],
+                    "samples": [
+                        "Mission",
+                        "epragati Mission",
+                        "tell about Mission of epragati",
+                        "Mission of epragati",
+                        "what about Mission of epragati"
+                    ]
+                },
+                {
+                    "name": "PrimarySector",
+                    "slots": [],
+                    "samples": [
+                        "PrimarySector",
+                        "epragati PrimarySector",
+                        "tell about PrimarySector of epragati",
+                        "PrimarySector of epragati",
+                        "what about PrimarySector of epragati"
+                    ]
+                },
+                {
+                    "name": "Principles",
+                    "slots": [],
+                    "samples": [
+                        "Principles",
+                        "epragati Principles",
+                        "Principles of epragati",
+                        "tell about Principles of epragati",
+                        "what about Principles of epragati"
+                    ]
+                },
+                {
+                    "name": "ServiceSector",
+                    "slots": [],
+                    "samples": [
+                        "ServiceSector",
+                        "ServiceSector Infrastructure",
+                        "ServiceSector of epragati",
+                        "what about ServiceSector of epragati",
+                        "tell about ServiceSector of epragati"
+                    ]
+                },
+                {
+                    "name": "SocialEmpowerment",
+                    "slots": [],
+                    "samples": [
+                        "SocialEmpowerment",
+                        "epragati SocialEmpowerment",
+                        "SocialEmpowerment of epragati",
+                        "tell about SocialEmpowerment of epragati",
+                        "what about SocialEmpowerment of epragati"
+                    ]
+                },
+                {
+                    "name": "UrbanDevelopment",
+                    "slots": [],
+                    "samples": [
+                        "Urban Development of epragati",
+                        "epragati Urban Development",
+                        "tell about Urban Development of epragati",
+                        "what about Urban Development of epragati",
+                        "Urban Development"
+                    ]
+                },
+                {
+                    "name": "ValueProportion",
+                    "slots": [],
+                    "samples": [
+                        "epragati ValueProportion",
+                        "ValueProportion of epragati",
+                        "tell about ValueProportion of epragati",
+                        "what about ValueProportion of epragati",
+                        "ValueProportion"
+                    ]
+                },
+                {
+                    "name": "Contacts",
+                    "slots": [],
+                    "samples": [
+                        "tell me epragati contact details",
+                        "what about epragati contact details",
+                        "epragati contact details",
+                        "contact details of epragati",
+                        "contact details",
+                        "contacts"
+                    ]
+                },
+                {
+                    "name": "Careers",
+                    "slots": [],
+                    "samples": [
+                        "tell about career at epragati",
+                        "careers at epragati",
+                        "careers"
+                    ]
+                },
+                {
+                    "name": "DepartmentRFP",
+                    "slots": [],
+                    "samples": [
+                        "what about DepartmentRFP of epragati",
+                        "tell about DepartmentRFP of epragati",
+                        "epragati DepartmentRFP",
+                        "DepartmentRFP of epragati",
+                        "DepartmentRFP"
+                    ]
+                },
+                {
+                    "name": "CloudServices",
+                    "slots": [],
+                    "samples": [
+                        "tell about CloudServices of epragati",
+                        "what about CloudServices of epragati",
+                        "CloudServices of epragati",
+                        "epragati CloudServices",
+                        "CloudServices"
+                    ]
+                },
+                {
+                    "name": "Empanelment",
+                    "slots": [],
+                    "samples": [
+                        "tell about Empanelment of epragati",
+                        "what about Empanelment of epragati",
+                        "Empanelment of epragati",
+                        "epragati Empanelment",
+                        "Empanelment"
+                    ]
+                },
+                {
+                    "name": "Proposals",
+                    "slots": [],
+                    "samples": [
+                        "what about Proposals of epragati",
+                        "Proposals of epragati",
+                        "tell about Proposals of epragati",
+                        "epragati Proposals",
+                        "Proposals"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
